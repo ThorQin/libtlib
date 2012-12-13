@@ -1,0 +1,13 @@
+CodeShow is a simple source code color format tools.
+Using codeshow can format any language's source code, 
+of course, you must provide your language lexical definition 
+and the template file to specify how to display your source code.
+In default, CodeShow have already embedded the C++ language definition.
+
+
+
+CodeShow是一个简单的源代码着色工具。使用codeshow可以格式化任何语言的源代码。
+当然，你必须提供这种语言的词汇定义文件和模板文件来指定如何显示您的源代码。
+默认，CodeShow 已经内置了C++语言的定义，可以直接使用。
+
+
